@@ -1,0 +1,4 @@
+/home/jinjing/slam_14/jinjing_slambook2/ch6/build/CMakeFiles/rebuild_cache.dir
+/home/jinjing/slam_14/jinjing_slambook2/ch6/build/CMakeFiles/edit_cache.dir
+/home/jinjing/slam_14/jinjing_slambook2/ch6/build/CMakeFiles/ceres_PROJ.dir
+/home/jinjing/slam_14/jinjing_slambook2/ch6/build/CMakeFiles/g2o_PROJ.dir

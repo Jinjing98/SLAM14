@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/jinjing/slam_14/jinjing_slambook2/ch11/build",
+  "command": "/usr/bin/c++   -isystem /usr/include/opencv  -std=c++11 -O3 -O3 -DNDEBUG   -o CMakeFiles/gen_vocab.dir/gen_vocab_large.o -c /home/jinjing/slam_14/jinjing_slambook2/ch11/gen_vocab_large.cpp",
+  "file": "/home/jinjing/slam_14/jinjing_slambook2/ch11/gen_vocab_large.cpp"
+},
+{
+  "directory": "/home/jinjing/slam_14/jinjing_slambook2/ch11/build",
+  "command": "/usr/bin/c++   -isystem /usr/include/opencv  -std=c++11 -O3 -O3 -DNDEBUG   -o CMakeFiles/feature_training.dir/feature_training.o -c /home/jinjing/slam_14/jinjing_slambook2/ch11/feature_training.cpp",
+  "file": "/home/jinjing/slam_14/jinjing_slambook2/ch11/feature_training.cpp"
+},
+{
+  "directory": "/home/jinjing/slam_14/jinjing_slambook2/ch11/build",
+  "command": "/usr/bin/c++   -isystem /usr/include/opencv  -std=c++11 -O3 -O3 -DNDEBUG   -o CMakeFiles/loop_closure.dir/loop_closure.o -c /home/jinjing/slam_14/jinjing_slambook2/ch11/loop_closure.cpp",
+  "file": "/home/jinjing/slam_14/jinjing_slambook2/ch11/loop_closure.cpp"
+}
+]

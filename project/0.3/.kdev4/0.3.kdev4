@@ -1,0 +1,37 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\x06\x000\x00.\x003)
+
+[CMake]
+Build Directory Count=1
+Current Build Directory Index-Host System=0
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=/home/jinjing/slam_14/jinjing_slambook2/project/0.3/build
+Build Type=Debug
+CMake Binary=/usr/bin/cmake
+CMake Executable=/usr/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=
+Runtime=Host System
+
+[Launch]
+Launch Configurations=Launch Configuration 1
+
+[Launch][Launch Configuration 1]
+Configured Launch Modes=execute
+Configured Launchers=nativeAppLauncher
+Name=run_vo
+Type=Native Application
+
+[Launch][Launch Configuration 1][Data]
+Arguments=/home/jinjing/slam_14/jinjing_slambook2/project/0.3/config/default.yaml
+Dependencies=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x03\x00\x00\x00\x06\x000\x00.\x003\x00\x00\x00\x08\x00t\x00e\x00s\x00t\x00\x00\x00\x0c\x00r\x00u\x00n\x00_\x00v\x00o)
+Dependency Action=Build
+EnvironmentGroup=
+Executable=file:///home/jinjing/slam_14/jinjing_slambook2/project/0.3
+External Terminal=konsole --noclose --workdir %workdir -e %exe
+Project Target=0.3,test,run_vo
+Use External Terminal=false
+Working Directory=
+isExecutable=false

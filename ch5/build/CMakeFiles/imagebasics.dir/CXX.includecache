@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jinjing/slam_14/jinjing_slambook2/ch5/imageBasics.cpp
+iostream
+-
+chrono
+-
+opencv2/core/core.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+
